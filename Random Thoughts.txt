@@ -1,0 +1,9 @@
+**Proposal: Optional topics; With regard to (as for) optional topics I see (there are) two possible scenarios. 
+The first one is that in the course of working with the presented protocol (and the (intuitive) idea why the protocol is secure), it becomes clear that the assumption about the protocols security in context of the presented security model doesn't hold. In this case...
+The second one is that the proof turns out to be more straight forward than expected. A reasonable course of action could be to go a step further and investigate how the proven security transfer to other security models, such as an active attacker scenario. Bla bla, worauf das "active" Einfluss haben könnte.
+
+**Frage: Kann ich "I" im Proposal/in der Arbeit verwenden?
+
+**Frage: Wie sehr sollte ich von der Introduction des Papers abweichen? Die Anwendungsbeispiele sind sehr spezifisch, kann ich die einfach übernehmen und auf das Paper verweisen? Ich habe das Gefühl, dass ein Großteil meiner Erklärungen auf dem, was ich im Paper dazu gelernt habe basieren wird.
+
+**Anmerkung für Review: Ich tendiere dazu lange, verschachtelte Sätze zu bilden und habe Sorge, dass dadurch der Text schwierig zu lesen wird. Darauf könntest du vielleicht verstärkt achten.
