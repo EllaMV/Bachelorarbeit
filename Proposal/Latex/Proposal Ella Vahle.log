@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  14 MAY 2021 16:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  15 MAY 2021 20:41
 entering extended mode
 **"./Proposal Ella Vahle.tex"
 ("Proposal Ella Vahle.tex"
@@ -512,7 +512,7 @@ LaTeX Warning: Citation `testref' on page 2 undefined on input line 8.
 
 LaTeX Warning: Citation `testref' on page 2 undefined on input line 4.
 
-) (outline.tex [2]) (workplan.tex
+) [2] (outline.tex) (workplan.tex
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
 .
 
@@ -528,11 +528,11 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  9088 strings out of 480930
  188742 string characters out of 2909548
- 565010 words of memory out of 3000000
+ 566010 words of memory out of 3000000
  24817 multiletter control sequences out of 15000+200000
  579766 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,18n,73p,10119b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,18n,71p,10119b,479s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
 iKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
 nc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx1
@@ -543,7 +543,7 @@ lic/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/lm/lmtt10.pfb>
-Output written on "Proposal Ella Vahle.pdf" (3 pages, 209002 bytes).
+Output written on "Proposal Ella Vahle.pdf" (3 pages, 210801 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
