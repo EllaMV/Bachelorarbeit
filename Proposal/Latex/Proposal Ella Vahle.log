@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  15 MAY 2021 20:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  22 JUN 2021 20:20
 entering extended mode
 **"./Proposal Ella Vahle.tex"
 ("Proposal Ella Vahle.tex"
@@ -389,7 +389,25 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)) ("Proposal Ella Vahle.aux")
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+("Proposal Ella Vahle.aux")
 \openout1 = `"Proposal Ella Vahle.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -414,8 +432,7 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 Package scrbase Info: activating english \contentsname on input line 12.
 Package scrbase Info: activating english \listfigurename on input line 12.
 Package scrbase Info: activating english \listtablename on input line 12.
-
-("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+ ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count267
 \scratchdimen=\dimen157
@@ -491,28 +508,16 @@ LaTeX Font Info:    Trying to load font information for T1+lmss on input line 2
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) (introduction.tex
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6
-.
+) (introduction.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--26
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ts1lmr.fd"
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)) (currentstate.tex
-[1
+ []
+
+(currentstate.tex) [1
 
 {C:/Users/ellav/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figures/u
-pb_logo.pdf> <./figures/cuk_logo.pdf>]
-
-LaTeX Warning: Citation `testref' on page 2 undefined on input line 7.
-
-
-LaTeX Warning: Citation `testref' on page 2 undefined on input line 8.
-
-) (goals.tex
-
-LaTeX Warning: Citation `testref' on page 2 undefined on input line 4.
-
-) [2] (outline.tex) (workplan.tex
+pb_logo.pdf> <./figures/cuk_logo.pdf>] (goals.tex)
+(outline.tex [2]) (workplan.tex
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
 .
 
@@ -520,32 +525,24 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )) (sigs.tex)
 No file "Proposal Ella Vahle".bbl.
-[3] ("Proposal Ella Vahle.aux")
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[3] ("Proposal Ella Vahle.aux") ) 
 Here is how much of TeX's memory you used:
- 9088 strings out of 480930
- 188742 string characters out of 2909548
- 566010 words of memory out of 3000000
- 24817 multiletter control sequences out of 15000+200000
- 579766 words of font info for 55 fonts, out of 3000000 for 9000
+ 9523 strings out of 480930
+ 193203 string characters out of 2909548
+ 576566 words of memory out of 3000000
+ 25252 multiletter control sequences out of 15000+200000
+ 572143 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,18n,71p,10119b,479s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
-iKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
-nc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx1
-0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsco10.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/lm/lmtt10.pfb>
-Output written on "Proposal Ella Vahle.pdf" (3 pages, 210801 bytes).
+ 57i,19n,72p,10119b,598s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/l
+m/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsco10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssb
+x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
+Output written on "Proposal Ella Vahle.pdf" (3 pages, 170120 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
