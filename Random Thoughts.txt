@@ -1,7 +1,0 @@
-**Frage: Kann ich "I" im Proposal/in der Arbeit verwenden?
-
-**Frage: Wie sehr sollte ich von der Introduction des Papers abweichen? Die Anwendungsbeispiele sind sehr spezifisch, kann ich die einfach übernehmen und auf das Paper verweisen? Ich habe das Gefühl, dass ein Großteil meiner Erklärungen auf dem, was ich im Paper dazu gelernt habe basieren wird.
-
-**Anmerkung für Review: Ich tendiere dazu lange, verschachtelte Sätze zu bilden und habe Sorge, dass dadurch der Text schwierig zu lesen wird. Darauf könntest du vielleicht verstärkt achten.
-
-**Anmerkung für Review/Problem: Sektion Current State noch sehr diffus. Ich weiß nicht so ganz, was darein soll. Beispiele aus dem Paper? Darüber hinaus Recherche betreiben?
