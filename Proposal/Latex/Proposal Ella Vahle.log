@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  23 JUN 2021 19:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  5 JUL 2021 20:39
 entering extended mode
 **"./Proposal Ella Vahle.tex"
 ("Proposal Ella Vahle.tex"
@@ -856,18 +856,22 @@ LaTeX Font Info:    Trying to load font information for T1+lmss on input line 2
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (introduction.tex)
-(currentstate.tex) [1
+Underfull \hbox (badness 10000) in paragraph at lines 1--26
+
+ []
+
+[1
 
 {C:/Users/ellav/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figures/u
-pb_logo.pdf> <./figures/cuk_logo.pdf>] (goals.tex)
-(outline.tex [2]) (workplan.tex) (sigs.tex)
+pb_logo.pdf> <./figures/cuk_logo.pdf>] (currentstate.tex) (goals.tex)
+[2] (outline.tex [3]) (workplan.tex) (sigs.tex)
 No file "Proposal Ella Vahle".bbl.
-[3] ("Proposal Ella Vahle.aux") ) 
+[4] ("Proposal Ella Vahle.aux") ) 
 Here is how much of TeX's memory you used:
- 21676 strings out of 480930
- 467988 string characters out of 2909548
- 829731 words of memory out of 3000000
- 37154 multiletter control sequences out of 15000+200000
+ 21698 strings out of 480930
+ 468399 string characters out of 2909548
+ 830223 words of memory out of 3000000
+ 37176 multiletter control sequences out of 15000+200000
  580812 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,19n,93p,10119b,859s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -879,11 +883,10 @@ blic/lm/lmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsco10.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm
-/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on "Proposal Ella Vahle.pdf" (3 pages, 223922 bytes).
+/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on "Proposal Ella Vahle.pdf" (4 pages, 206289 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
