@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  5 JUL 2021 20:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  6 JUL 2021 19:41
 entering extended mode
 **"./Proposal Ella Vahle.tex"
 ("Proposal Ella Vahle.tex"
@@ -860,17 +860,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--26
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--26
+
+ []
+
 [1
 
 {C:/Users/ellav/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figures/u
-pb_logo.pdf> <./figures/cuk_logo.pdf>] (currentstate.tex) (goals.tex)
-[2] (outline.tex [3]) (workplan.tex) (sigs.tex)
+pb_logo.pdf> <./figures/cuk_logo.pdf>] (currentstate.tex) [2] (goals.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--40
+
+ []
+
+(outline.tex [3]) (workplan.tex) (sigs.tex [4])
 No file "Proposal Ella Vahle".bbl.
-[4] ("Proposal Ella Vahle.aux") ) 
+[5] ("Proposal Ella Vahle.aux") ) 
 Here is how much of TeX's memory you used:
  21698 strings out of 480930
  468399 string characters out of 2909548
- 830223 words of memory out of 3000000
+ 831481 words of memory out of 3000000
  37176 multiletter control sequences out of 15000+200000
  580812 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -884,9 +893,9 @@ fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm
 /lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on "Proposal Ella Vahle.pdf" (4 pages, 206289 bytes).
+Output written on "Proposal Ella Vahle.pdf" (5 pages, 207967 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
