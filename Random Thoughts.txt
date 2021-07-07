@@ -1,4 +1,0 @@
-Frage: Wie zitiere ich richtig, wenn ein ganzer Absatz auf einer Quelle basiert?
-Frage: Ist das Paper eine gute Quelle? 
-Frage: Quelle für die Sicherheit von Curcuits?
-Frage: Angenommen OLML nur in schwacherem security model sicher. Versuche ich trotzdem security für protocol mit sicherer Blackbox zu zeigen? Das kann ja auch relevant sein, weil man dann automatisch Sicherheit bekommt, wenn man eine sichere Alternative zu OLML findet.
