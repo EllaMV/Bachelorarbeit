@@ -5,18 +5,21 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Hastings et~al.(2014)Hastings, Hemenway, Noble, and
-  Zdancewic]{soktest}
-M.~Hastings, B.~Hemenway, D.~Noble, and S.~Zdancewic.
-\newblock On the importance of correct stirring.
-\newblock \emph{International Journal of Cookie Theory}, 13\penalty0
-  (1):\penalty0 1--247, 2014.
+\bibitem[Doerner et~al.(2016)Doerner, Evans, and abhi shelat]{smas}
+J.~Doerner, D.~Evans, and abhi shelat.
+\newblock Secure stable matching at scale.
+\newblock In \emph{Proceedings of the 2016 ACM SIGSAC Conference on Computer
+  and Communications Security}, CCS '16, page 1602–1613, New York, NY, USA,
+  2016. Association for Computing Machinery.
+\newblock ISBN 9781450341394.
+\newblock \doi{10.1145/2976749.2978373}.
+\newblock URL \url{https://doi.org/10.1145/2976749.2978373}.
 
-\bibitem[{Marcella Hastings and Brett Hemenway and Daniel Noble and Steve
-  Zdancewic}(2014)]{sok}
-{Marcella Hastings and Brett Hemenway and Daniel Noble and Steve Zdancewic}.
-\newblock {On the Importance of Correct Stirring}.
-\newblock \emph{{International Journal of Cookie Theory}}, 13\penalty0
-  (1):\penalty0 1--247, 2014.
+\bibitem[Hastings et~al.(2019)Hastings, Hemenway, Noble, and Zdancewic]{sok}
+M.~Hastings, B.~Hemenway, D.~Noble, and S.~Zdancewic.
+\newblock Sok: General purpose compilers for secure multi-party computation.
+\newblock In \emph{2019 IEEE Symposium on Security and Privacy (SP)}, pages
+  1220--1237, 2019.
+\newblock \doi{10.1109/SP.2019.00028}.
 
 \end{thebibliography}

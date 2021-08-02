@@ -1,33 +1,62 @@
 % Bibliography File
 % Insert your References here!
-
-@article{testref,
-    author = {Eti, Y.},
-    title = {{On the Importance of Correct Stirring}},
-    journal = {{International Journal of Cookie Theory}},
-    year = {2014},
-    volume = {13},
-    number = {1},
-    pages = {1--247},
-    DOI =          "http://dx.doi.org/10.1002/andp.19053221004"
+@inproceedings{smas,
+author = {Jack Doerner and David Evans and abhi shelat},
+title = {Secure Stable Matching at Scale},
+year = {2016},
+isbn = {9781450341394},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2976749.2978373},
+doi = {10.1145/2976749.2978373},
+abstract = {When a group of individuals and organizations wish to compute a stable matching---for
+example, when medical students are matched to medical residency programs---they often
+outsource the computation to a trusted arbiter in order to preserve the privacy of
+participants' preferences. Secure multi-party computation offers the possibility of
+private matching processes that do not rely on any common trusted third party. However,
+stable matching algorithms have previously been considered infeasible for execution
+in a secure multi-party context on non-trivial inputs because they are computationally
+intensive and involve complex data-dependent memory access patterns.We adapt the classic
+Gale-Shapley algorithm for use in such a context, and show experimentally that our
+modifications yield a lower asymptotic complexity and more than an order of magnitude
+in practical cost improvement over previous techniques. Our main improvements stem
+from designing new oblivious data structures that exploit the properties of the matching
+algorithms. We apply a similar strategy to scale the Roth-Peranson instability chaining
+algorithm, currently in use by the National Resident Matching Program. The resulting
+protocol is efficient enough to be useful at the scale required for matching medical
+residents nationwide, taking just over 18 hours to complete an execution simulating
+the 2016 national resident match with more than 35,000 participants and 30,000 residency
+slots.},
+booktitle = {Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security},
+pages = {1602–1613},
+numpages = {12},
+keywords = {gale-shapley, stable matching, ram secure computation, multi-party computation, secure computation, roth-peranson},
+location = {Vienna, Austria},
+series = {CCS '16}
 }
 
-@article{sok,
-    author = {{Marcella Hastings and Brett Hemenway and Daniel Noble and Steve Zdancewic}},
-    title = {{On the Importance of Correct Stirring}},
-    journal = {{International Journal of Cookie Theory}},
-    year = {2014},
-    volume = {13},
-    number = {1},
-    pages = {1--247}
+@INPROCEEDINGS{sok,
+  author={Hastings, Marcella and Hemenway, Brett and Noble, Daniel and Zdancewic, Steve},
+  booktitle={2019 IEEE Symposium on Security and Privacy (SP)}, 
+  title={SoK: General Purpose Compilers for Secure Multi-Party Computation}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={1220-1237},
+  doi={10.1109/SP.2019.00028}}
 }
 
-@article{soktest,
-    author = "Marcella Hastings and Brett Hemenway and Daniel Noble and Steve Zdancewic",
-    title = "On the Importance of Correct Stirring",
-    journal = "International Journal of Cookie Theory",
-    year = "2014",
-    volume = "13",
-    number = "1",
-    pages = "1--247"
+@Inbook{htsi,
+author="Lindell, Yehuda",
+editor="Lindell, Yehuda",
+title="How to Simulate It -- A Tutorial on the Simulation Proof Technique",
+bookTitle="Tutorials on the Foundations of Cryptography: Dedicated to Oded Goldreich",
+year="2017",
+publisher="Springer International Publishing",
+address="Cham",
+pages="277--346",
+abstract="One of the most fundamental notions of cryptography is that of simulation. It stands behind the concepts of semantic security, zero knowledge, and security for multiparty computation. However, writing a simulator and proving security via the use of simulation is a nontrivial task, and one that many newcomers to the field often find difficult. In this tutorial, we provide a guide to how to write simulators and prove security via the simulation paradigm. Although we have tried to make this tutorial as stand-alone as possible, we assume some familiarity with the notions of secure encryption, zero-knowledge, and secure computation.",
+isbn="978-3-319-57048-8",
+doi="10.1007/978-3-319-57048-8_6",
+url="https://doi.org/10.1007/978-3-319-57048-8_6"
 }
