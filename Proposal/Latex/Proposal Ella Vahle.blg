@@ -1,46 +1,46 @@
 This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Proposal Ella Vahle.aux
-The style file: abbrvnat.bst
+The style file: alpha.bst
 Database file #1: references.bib
-You've used 2 entries,
-            2773 wiz_defined-function locations,
-            611 strings with 5116 characters,
-and the built_in function-call counts, 1488 in all, are:
-= -- 150
-> -- 69
-< -- 2
-+ -- 23
-- -- 21
-* -- 103
-:= -- 202
-add.period$ -- 11
-call.type$ -- 2
-change.case$ -- 13
-chr.to.int$ -- 2
-cite$ -- 4
-duplicate$ -- 82
-empty$ -- 109
-format.name$ -- 23
-if$ -- 344
+You've used 13 entries,
+            2543 wiz_defined-function locations,
+            647 strings with 7165 characters,
+and the built_in function-call counts, 6722 in all, are:
+= -- 703
+> -- 269
+< -- 16
++ -- 92
+- -- 91
+* -- 413
+:= -- 996
+add.period$ -- 47
+call.type$ -- 13
+change.case$ -- 82
+chr.to.int$ -- 13
+cite$ -- 13
+duplicate$ -- 326
+empty$ -- 504
+format.name$ -- 109
+if$ -- 1500
 int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 2
-newline$ -- 22
-num.names$ -- 8
-pop$ -- 26
+int.to.str$ -- 0
+missing$ -- 14
+newline$ -- 70
+num.names$ -- 47
+pop$ -- 106
 preamble$ -- 1
-purify$ -- 11
+purify$ -- 97
 quote$ -- 0
-skip$ -- 80
+skip$ -- 297
 stack$ -- 0
-substring$ -- 62
-swap$ -- 37
-text.length$ -- 2
-text.prefix$ -- 0
+substring$ -- 391
+swap$ -- 130
+text.length$ -- 16
+text.prefix$ -- 6
 top$ -- 0
-type$ -- 22
+type$ -- 96
 warning$ -- 0
-while$ -- 9
-width$ -- 0
-write$ -- 44
+while$ -- 63
+width$ -- 14
+write$ -- 186

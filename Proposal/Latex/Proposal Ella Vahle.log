@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  2 AUG 2021 17:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.3)  10 AUG 2021 20:32
 entering extended mode
 **"./Proposal Ella Vahle.tex"
 ("Proposal Ella Vahle.tex"
@@ -820,42 +820,8 @@ Package scrbase Info: activating english \listtablename on input line 11.
 \everyMPtoPDFconversion=\toks44
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/infwarerr\infwarerr.sty"
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/grfext\grfext.sty"
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdefinekeys.sty"
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
-("C:\Program Files\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))
-("C:\Program Files\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 )
 ABD: EveryShipout initializing macros (title.tex
 <figures/upb_logo.pdf, id=4, 555.07375pt x 146.5475pt>
@@ -912,33 +878,30 @@ Package pdftex.def Info: figures/cuk_logo.pdf  used on input line 40.
 (pdftex.def)             Requested size: 42.67912pt x 24.60077pt.
 )
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 2
-2.
+1.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) (introduction.tex
-
-Package natbib Warning: Citation `htsi' on page 1 undefined on input line 12.
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 1--25
+) (introduction.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--25
+Underfull \hbox (badness 10000) in paragraph at lines 1--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--24
 
  []
 
 [1
 
 {C:/Users/ellav/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figures/u
-pb_logo.pdf> <./figures/cuk_logo.pdf>]
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-(currentstate.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--32
+pb_logo.pdf> <./figures/cuk_logo.pdf>] (currentstate.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--31
 
  []
 
@@ -946,62 +909,67 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--32
 
 LaTeX Warning: Marginpar on page 3 moved.
 
-
-LaTeX Warning: Marginpar on page 3 moved.
-
-
-LaTeX Warning: Marginpar on page 3 moved.
-
 (goals.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--39
+Underfull \hbox (badness 10000) in paragraph at lines 1--38
 
  []
 
-
-LaTeX Warning: Marginpar on page 3 moved.
-
-
-LaTeX Warning: Marginpar on page 3 moved.
-
 [3] (outline.tex [4]) (workplan.tex)
-Overfull \hbox (3.10007pt too wide) in paragraph at lines 62--54
+Overfull \hbox (3.10007pt too wide) in paragraph at lines 62--53
 []
  []
 
-(sigs.tex) ("Proposal Ella Vahle.bbl"
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-6.
 
+Underfull \hbox (badness 10000) in paragraph at lines 62--53
+
+ []
+
+(sigs.tex) ("Proposal Ella Vahle.bbl" [5]
+Underfull \hbox (badness 1024) in paragraph at lines 41--46
+[]\T1/lmr/m/n/10.95 Philippe Golle.  A pri-vate sta-ble match-ing al-go-rithm. 
+ In Gio-vanni
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 6
+2.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-))
+)
+Underfull \hbox (badness 1448) in paragraph at lines 59--64
+[]\T1/lmr/m/n/10.95 Ingo Lütke-bohle.  Na-tional Res-i-dent Match-ing Pro-gram.
+ 2016 Main
+ []
 
-Package natbib Warning: There were undefined citations.
 
-[5] ("Proposal Ella Vahle.aux") ) 
+Underfull \hbox (badness 1859) in paragraph at lines 59--64
+\T1/lmr/m/n/10.95 Res-i-dency Match.  $\T1/lmtt/m/n/10.95 http : / / www . nrmp
+ . org / wp-[]content / uploads / 2016 /
+ []
+
+[6]) [7] ("Proposal Ella Vahle.aux") ) 
 Here is how much of TeX's memory you used:
- 23271 strings out of 480930
- 495765 string characters out of 2909548
- 897543 words of memory out of 3000000
- 38689 multiletter control sequences out of 15000+200000
+ 22746 strings out of 480930
+ 486306 string characters out of 2909548
+ 868410 words of memory out of 3000000
+ 38196 multiletter control sequences out of 15000+200000
  585394 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 76i,19n,93p,10207b,943s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/l
-m/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Progr
-am Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}<C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx9.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsco10.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/l
-m/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/lm/lmtt10.pfb>
-Output written on "Proposal Ella Vahle.pdf" (5 pages, 282119 bytes).
+ 76i,19n,93p,10207b,941s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dv
+ips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/
+Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}<C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/lm/lmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsc
+o10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/lm/lmtt10.pfb>
+Output written on "Proposal Ella Vahle.pdf" (7 pages, 298455 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
+ 84 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

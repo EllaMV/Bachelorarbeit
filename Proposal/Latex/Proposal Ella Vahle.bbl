@@ -1,25 +1,92 @@
-\begin{thebibliography}{2}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{ZWR{\etalchar{+}}16}
 
-\bibitem[Doerner et~al.(2016)Doerner, Evans, and abhi shelat]{smas}
-J.~Doerner, D.~Evans, and abhi shelat.
+\bibitem[BSA13]{dogafscao}
+Marina Blanton, Aaron Steele, and Mehrdad Alisagari.
+\newblock Data-oblivious graph algorithms for secure computation and
+  outsourcing.
+\newblock In {\em Proceedings of the 8th ACM SIGSAC Symposium on Information,
+  Computer and Communications Security}, ASIA CCS '13, page 207–218, New
+  York, NY, USA, 2013. Association for Computing Machinery.
+
+\bibitem[CCD88]{mpusp}
+David Chaum, Claude Cr{\'{e}}peau, and Ivan Damg{\aa}rd.
+\newblock Multiparty unconditionally secure protocols (extended abstract).
+\newblock In Janos Simon, editor, {\em Proceedings of the 20th Annual {ACM}
+  Symposium on Theory of Computing, May 2-4, 1988, Chicago, Illinois, {USA}},
+  pages 11--19. {ACM}, 1988.
+
+\bibitem[DEas16]{smas}
+Jack Doerner, David Evans, and abhi shelat.
 \newblock Secure stable matching at scale.
-\newblock In \emph{Proceedings of the 2016 ACM SIGSAC Conference on Computer
-  and Communications Security}, CCS '16, page 1602–1613, New York, NY, USA,
-  2016. Association for Computing Machinery.
-\newblock ISBN 9781450341394.
-\newblock \doi{10.1145/2976749.2978373}.
-\newblock URL \url{https://doi.org/10.1145/2976749.2978373}.
+\newblock In {\em Proceedings of the 2016 ACM SIGSAC Conference on Computer and
+  Communications Security}, CCS '16, page 1602–1613, New York, NY, USA, 2016.
+  Association for Computing Machinery.
 
-\bibitem[Hastings et~al.(2019)Hastings, Hemenway, Noble, and Zdancewic]{sok}
-M.~Hastings, B.~Hemenway, D.~Noble, and S.~Zdancewic.
+\bibitem[FGM06]{iefpsm}
+Matthew Franklin, Mark Gondree, and Payman Mohassel.
+\newblock Improved efficiency for private stable matching.
+\newblock In Masayuki Abe, editor, {\em Topics in Cryptology -- CT-RSA 2007},
+  pages 163--177, Berlin, Heidelberg, 2006. Springer Berlin Heidelberg.
+
+\bibitem[GMW87]{htpamg}
+Oded Goldreich, Silvio Micali, and Avi Wigderson.
+\newblock How to play any mental game or {A} completeness theorem for protocols
+  with honest majority.
+\newblock In Alfred~V. Aho, editor, {\em Proceedings of the 19th Annual {ACM}
+  Symposium on Theory of Computing, 1987, New York, New York, {USA}}, pages
+  218--229. {ACM}, 1987.
+
+\bibitem[Gol06]{apsma}
+Philippe Golle.
+\newblock A private stable matching algorithm.
+\newblock In Giovanni Di~Crescenzo and Avi Rubin, editors, {\em Financial
+  Cryptography and Data Security}, pages 65--80, Berlin, Heidelberg, 2006.
+  Springer Berlin Heidelberg.
+
+\bibitem[Gol09]{foc}
+Oded Goldreich.
+\newblock {\em Foundations of cryptography: volume 2, basic applications}.
+\newblock Cambridge university press, 2009.
+
+\bibitem[HHNZ19]{sok}
+Marcella Hastings, Brett Hemenway, Daniel Noble, and Steve Zdancewic.
 \newblock Sok: General purpose compilers for secure multi-party computation.
-\newblock In \emph{2019 IEEE Symposium on Security and Privacy (SP)}, pages
+\newblock In {\em 2019 IEEE Symposium on Security and Privacy (SP)}, pages
   1220--1237, 2019.
-\newblock \doi{10.1109/SP.2019.00028}.
+
+\bibitem[Lü16]{nrmp}
+Ingo Lütkebohle.
+\newblock {National Resident Matching Program. 2016 Main Residency Match.}
+\newblock \url{http://www.nrmp.org/wp-content/uploads/2016/04/
+  Main-Match-Results-and-Data-2016.pdf}, 2016.
+\newblock [Online; accessed 04-August-2021].
+
+\bibitem[Lin17]{htsi}
+Yehuda Lindell.
+\newblock {\em How to Simulate It -- A Tutorial on the Simulation Proof
+  Technique}, pages 277--346.
+\newblock Springer International Publishing, Cham, 2017.
+
+\bibitem[Tul14]{sm}
+Tracy Tullis.
+\newblock How game theory helped improve new york city’s high school
+  application process.
+\newblock {\em The New York Times}, 2:67--79, December 2014.
+
+\bibitem[Yao86]{htgaes}
+Andrew~Chi{-}Chih Yao.
+\newblock How to generate and exchange secrets (extended abstract).
+\newblock In {\em 27th Annual Symposium on Foundations of Computer Science,
+  Toronto, Canada, 27-29 October 1986}, pages 162--167. {IEEE} Computer
+  Society, 1986.
+
+\bibitem[ZWR{\etalchar{+}}16]{rsqo}
+Samee Zahur, Xiao Wang, Mariana Raykova, Adrià Gascón, Jack Doerner, David
+  Evans, and Jonathan Katz.
+\newblock Revisiting square-root oram: Efficient random access in multi-party
+  computation.
+\newblock In {\em 2016 IEEE Symposium on Security and Privacy (SP)}, pages
+  218--234, 2016.
 
 \end{thebibliography}
