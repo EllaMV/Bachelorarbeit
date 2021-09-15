@@ -1,0 +1,60 @@
+\documentclass{cukproposal} % extend to [german] if required
+
+%%%
+% Enter Title & Author
+\def\Title{Titel}
+\def\Author{Autor}
+\def\Degree{Bachelor} %or Master
+%%%
+
+\input{cfg.tex}
+
+\begin{document}
+
+\bibstyle{alpha}
+%\bibliography{references}
+\input{title.tex}
+
+%%%
+% Your proposal should probably contain the following Sections.
+\ifgerman
+	\section{Einleitung}
+\else
+	\section{Introduction}
+\fi
+\input{introduction.tex}
+
+\ifgerman
+	\section{Stand der Forschung}
+\else
+	\section{Current state of research}
+\fi
+\input{currentstate.tex}
+
+\ifgerman
+	\section{Ziele der Arbeit}
+\else
+	\section{Goals of the thesis}
+\fi
+\input{goals.tex}
+
+\ifgerman
+	\section{Vorläufige Gliederung der Arbeit}
+\else
+	\section{Preliminary outline of the thesis}
+\fi
+\input{outline.tex}
+
+\ifgerman
+	\section{Arbeitsplan}
+\else
+	\section{Work plan}
+\fi
+\input{workplan.tex}
+%%%
+
+\input{sigs.tex}
+
+%%
+
+\end{document}

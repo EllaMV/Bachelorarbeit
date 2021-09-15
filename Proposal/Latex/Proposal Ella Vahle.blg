@@ -1,46 +1,18 @@
-This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: Proposal Ella Vahle.aux
-The style file: alpha.bst
-Database file #1: references.bib
-You've used 13 entries,
-            2543 wiz_defined-function locations,
-            647 strings with 7165 characters,
-and the built_in function-call counts, 6722 in all, are:
-= -- 703
-> -- 269
-< -- 16
-+ -- 92
-- -- 91
-* -- 413
-:= -- 996
-add.period$ -- 47
-call.type$ -- 13
-change.case$ -- 82
-chr.to.int$ -- 13
-cite$ -- 13
-duplicate$ -- 326
-empty$ -- 504
-format.name$ -- 109
-if$ -- 1500
-int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 14
-newline$ -- 70
-num.names$ -- 47
-pop$ -- 106
-preamble$ -- 1
-purify$ -- 97
-quote$ -- 0
-skip$ -- 297
-stack$ -- 0
-substring$ -- 391
-swap$ -- 130
-text.length$ -- 16
-text.prefix$ -- 6
-top$ -- 0
-type$ -- 96
-warning$ -- 0
-while$ -- 63
-width$ -- 14
-write$ -- 186
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Proposal Ella Vahle.blg'
+[280] biber-MSWIN64:340> INFO - === 
+[351] Biber.pm:415> INFO - Reading 'Proposal Ella Vahle.bcf'
+[655] Biber.pm:952> INFO - Found 13 citekeys in bib section 0
+[686] Biber.pm:4340> INFO - Processing section 0
+[712] Biber.pm:4531> INFO - Looking for bibtex format file 'references.bib' for section 0
+[829] bibtex.pm:1689> INFO - LaTeX decoding ...
+[931] bibtex.pm:1494> INFO - Found BibTeX data source 'references.bib'
+[1078] Utils.pm:395> WARN - legacy month field 'December' in entry 'sm' is not an integer - this will probably not sort properly.
+[1229] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\ellav\AppData\Local\Temp\biber_tmp_Igt6\33e59b5ca9ec342068223d604c3f8d55_19628.utf8, line 48, warning: 1 characters of junk seen at toplevel
+[1306] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1307] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1307] Biber.pm:4168> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'en-US'
+[1307] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1363] bbl.pm:654> INFO - Writing 'Proposal Ella Vahle.bbl' with encoding 'UTF-8'
+[1381] bbl.pm:757> INFO - Output to Proposal Ella Vahle.bbl
+[1381] Biber.pm:128> INFO - WARNINGS: 2

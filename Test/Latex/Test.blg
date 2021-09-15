@@ -1,0 +1,17 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Test.blg'
+[382] biber-MSWIN64:340> INFO - === 
+[482] Biber.pm:415> INFO - Reading 'Test.bcf'
+[772] Biber.pm:952> INFO - Found 1 citekeys in bib section 0
+[817] Biber.pm:4340> INFO - Processing section 0
+[844] Biber.pm:4531> INFO - Looking for bibtex format file 'references.bib' for section 0
+[981] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1091] bibtex.pm:1494> INFO - Found BibTeX data source 'references.bib'
+[1272] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\ellav\AppData\Local\Temp\biber_tmp_xDrl\33e59b5ca9ec342068223d604c3f8d55_4296.utf8, line 49, warning: 1 characters of junk seen at toplevel
+[1295] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1295] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1295] Biber.pm:4168> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'de-DE'
+[1295] Biber.pm:4174> INFO - No sort tailoring available for locale 'de-DE'
+[1312] bbl.pm:654> INFO - Writing 'Test.bbl' with encoding 'UTF-8'
+[1315] bbl.pm:757> INFO - Output to Test.bbl
+[1316] Biber.pm:128> INFO - WARNINGS: 1

@@ -1,92 +1,605 @@
-\newcommand{\etalchar}[1]{$^{#1}$}
-\begin{thebibliography}{ZWR{\etalchar{+}}16}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem[BSA13]{dogafscao}
-Marina Blanton, Aaron Steele, and Mehrdad Alisagari.
-\newblock Data-oblivious graph algorithms for secure computation and
-  outsourcing.
-\newblock In {\em Proceedings of the 8th ACM SIGSAC Symposium on Information,
-  Computer and Communications Security}, ASIA CCS '13, page 207–218, New
-  York, NY, USA, 2013. Association for Computing Machinery.
 
-\bibitem[CCD88]{mpusp}
-David Chaum, Claude Cr{\'{e}}peau, and Ivan Damg{\aa}rd.
-\newblock Multiparty unconditionally secure protocols (extended abstract).
-\newblock In Janos Simon, editor, {\em Proceedings of the 20th Annual {ACM}
-  Symposium on Theory of Computing, May 2-4, 1988, Chicago, Illinois, {USA}},
-  pages 11--19. {ACM}, 1988.
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{dogafscao}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=47752ad1b58c191e30b0f3500ff4eca9}{%
+           family={Blanton},
+           familyi={B\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cf6ff178dd697e93c84ac545fbc7d4bf}{%
+           family={Steele},
+           familyi={S\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2a23be879199f6c227c93e4f6b9165c7}{%
+           family={Alisagari},
+           familyi={A\bibinitperiod},
+           given={Mehrdad},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hangzhou, China}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{6a451b315fff1c441a73a5adee4406f1}
+      \strng{fullhash}{f672deba316768f92498d6e016c7c72a}
+      \strng{bibnamehash}{f672deba316768f92498d6e016c7c72a}
+      \strng{authorbibnamehash}{f672deba316768f92498d6e016c7c72a}
+      \strng{authornamehash}{6a451b315fff1c441a73a5adee4406f1}
+      \strng{authorfullhash}{f672deba316768f92498d6e016c7c72a}
+      \field{labelalpha}{BSA13}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This work treats the problem of designing data-oblivious algorithms for classical and widely used graph problems. A data-oblivious algorithm is defined as having the same sequence of operations regardless of the input data and data-independent memory accesses. Such algorithms are suitable for secure processing in outsourced and similar environments, which serves as the main motivation for this work. We provide data-oblivious algorithms for breadth-first search, single-source single-destination shortest path, minimum spanning tree, and maximum flow, the asymptotic complexities of which are optimal, or close to optimal, for dense graphs.}
+      \field{booktitle}{Proceedings of the 8th ACM SIGSAC Symposium on Information, Computer and Communications Security}
+      \field{isbn}{9781450317672}
+      \field{series}{ASIA CCS '13}
+      \field{title}{Data-Oblivious Graph Algorithms for Secure Computation and Outsourcing}
+      \field{year}{2013}
+      \field{pages}{207\bibrangedash 218}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/2484313.2484341
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2484313.2484341
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2484313.2484341
+      \endverb
+      \keyw{graph algorithms,oblivious execution,secure computation}
+    \endentry
+    \entry{mpusp}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=615e97951d5e1c224ddda5bded8c9081}{%
+           family={Chaum},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=74cd94e74587d09ce15dc1ae4fcfe334}{%
+           family={Crépeau},
+           familyi={C\bibinitperiod},
+           given={Claude},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e7d2c4b806bfb9a8aa20810a903c51d2}{%
+           family={Damg{å}rd},
+           familyi={D\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a7b41acfd795a3cc2e1d5c8f4a27fa8b}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Janos},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{d8c89d14d96688dd5279f25b77b6d79d}
+      \strng{fullhash}{a24cd6724a2e4a34353f4ef507de19d4}
+      \strng{bibnamehash}{a24cd6724a2e4a34353f4ef507de19d4}
+      \strng{authorbibnamehash}{a24cd6724a2e4a34353f4ef507de19d4}
+      \strng{authornamehash}{d8c89d14d96688dd5279f25b77b6d79d}
+      \strng{authorfullhash}{a24cd6724a2e4a34353f4ef507de19d4}
+      \strng{editorbibnamehash}{a7b41acfd795a3cc2e1d5c8f4a27fa8b}
+      \strng{editornamehash}{a7b41acfd795a3cc2e1d5c8f4a27fa8b}
+      \strng{editorfullhash}{a7b41acfd795a3cc2e1d5c8f4a27fa8b}
+      \field{labelalpha}{CCD88}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 20th Annual {ACM} Symposium on Theory of Computing, May 2-4, 1988, Chicago, Illinois, {USA}}
+      \field{title}{Multiparty Unconditionally Secure Protocols (Extended Abstract)}
+      \field{year}{1988}
+      \field{pages}{11\bibrangedash 19}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/62212.62214
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/62212.62214
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/62212.62214
+      \endverb
+    \endentry
+    \entry{smas}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=a443b7f21d4906901160cc05b8bea094}{%
+           family={Doerner},
+           familyi={D\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fdf60d29316eacfbd0fdc22e786afd78}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b49eb52d8ef6cc8364d3178753f8d378}{%
+           family={shelat},
+           familyi={s\bibinitperiod},
+           prefix={abhi},
+           prefixi={a\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{f4cf39de64d59c6844f134089e673872}
+      \strng{fullhash}{f93de0fb05af3f49dff9504035b92bba}
+      \strng{bibnamehash}{f93de0fb05af3f49dff9504035b92bba}
+      \strng{authorbibnamehash}{f93de0fb05af3f49dff9504035b92bba}
+      \strng{authornamehash}{f4cf39de64d59c6844f134089e673872}
+      \strng{authorfullhash}{f93de0fb05af3f49dff9504035b92bba}
+      \field{labelalpha}{DEs16}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{When a group of individuals and organizations wish to compute a stable matching---for example, when medical students are matched to medical residency programs---they often outsource the computation to a trusted arbiter in order to preserve the privacy of participants' preferences. Secure multi-party computation offers the possibility of private matching processes that do not rely on any common trusted third party. However, stable matching algorithms have previously been considered infeasible for execution in a secure multi-party context on non-trivial inputs because they are computationally intensive and involve complex data-dependent memory access patterns.We adapt the classic Gale-Shapley algorithm for use in such a context, and show experimentally that our modifications yield a lower asymptotic complexity and more than an order of magnitude in practical cost improvement over previous techniques. Our main improvements stem from designing new oblivious data structures that exploit the properties of the matching algorithms. We apply a similar strategy to scale the Roth-Peranson instability chaining algorithm, currently in use by the National Resident Matching Program. The resulting protocol is efficient enough to be useful at the scale required for matching medical residents nationwide, taking just over 18 hours to complete an execution simulating the 2016 national resident match with more than 35,000 participants and 30,000 residency slots.}
+      \field{booktitle}{Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security}
+      \field{isbn}{9781450341394}
+      \field{series}{CCS '16}
+      \field{title}{Secure Stable Matching at Scale}
+      \field{year}{2016}
+      \field{pages}{1602\bibrangedash 1613}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/2976749.2978373
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2976749.2978373
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2976749.2978373
+      \endverb
+      \keyw{gale-shapley,stable matching,ram secure computation,multi-party computation,secure computation,roth-peranson}
+    \endentry
+    \entry{iefpsm}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=84a490f0aa833f369795866591ff0062}{%
+           family={Franklin},
+           familyi={F\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=70a72c79494179c909121dea4e855e31}{%
+           family={Gondree},
+           familyi={G\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=02526e0d710820082af3a656c511e34b}{%
+           family={Mohassel},
+           familyi={M\bibinitperiod},
+           given={Payman},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1192bfc964ee66317d0fa52f9476fc9d}{%
+           family={Abe},
+           familyi={A\bibinitperiod},
+           given={Masayuki},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{2a902b793f10d16018a96a65079b7041}
+      \strng{fullhash}{315e3b02974a6e5713240f3dd4ba4897}
+      \strng{bibnamehash}{315e3b02974a6e5713240f3dd4ba4897}
+      \strng{authorbibnamehash}{315e3b02974a6e5713240f3dd4ba4897}
+      \strng{authornamehash}{2a902b793f10d16018a96a65079b7041}
+      \strng{authorfullhash}{315e3b02974a6e5713240f3dd4ba4897}
+      \strng{editorbibnamehash}{1192bfc964ee66317d0fa52f9476fc9d}
+      \strng{editornamehash}{1192bfc964ee66317d0fa52f9476fc9d}
+      \strng{editorfullhash}{1192bfc964ee66317d0fa52f9476fc9d}
+      \field{labelalpha}{FGM06}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{At Financial Crypto 2006, Golle presented a novel framework for the privacy preserving computation of a stable matching (stable marriage). We show that the communication complexity of Golle's main protocol is substantially greater than what was claimed in that paper, in part due to surprising pathological behavior of Golle's variant of the Gale-Shapley stable matching algorithm. We also develop new protocols in Golle's basic framework with greatly reduced communication complexity.}
+      \field{booktitle}{Topics in Cryptology -- CT-RSA 2007}
+      \field{isbn}{978-3-540-69328-4}
+      \field{title}{Improved Efficiency for Private Stable Matching}
+      \field{year}{2006}
+      \field{pages}{163\bibrangedash 177}
+      \range{pages}{15}
+    \endentry
+    \entry{htpamg}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=66aba379c7d3adb8af5b662a65c4c140}{%
+           family={Goldreich},
+           familyi={G\bibinitperiod},
+           given={Oded},
+           giveni={O\bibinitperiod}}}%
+        {{hash=fb54c363f1b0d126e883c84df49e4790}{%
+           family={Micali},
+           familyi={M\bibinitperiod},
+           given={Silvio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=94bdc407739d530448ac88956c6c98a5}{%
+           family={Wigderson},
+           familyi={W\bibinitperiod},
+           given={Avi},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=87e9142329f09390b038692270dc2168}{%
+           family={Aho},
+           familyi={A\bibinitperiod},
+           given={Alfred\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{f7297e7dc88cdb1738f358f850a910b8}
+      \strng{fullhash}{5a9fcc707bce192056e824a8880d37a2}
+      \strng{bibnamehash}{5a9fcc707bce192056e824a8880d37a2}
+      \strng{authorbibnamehash}{5a9fcc707bce192056e824a8880d37a2}
+      \strng{authornamehash}{f7297e7dc88cdb1738f358f850a910b8}
+      \strng{authorfullhash}{5a9fcc707bce192056e824a8880d37a2}
+      \strng{editorbibnamehash}{87e9142329f09390b038692270dc2168}
+      \strng{editornamehash}{87e9142329f09390b038692270dc2168}
+      \strng{editorfullhash}{87e9142329f09390b038692270dc2168}
+      \field{labelalpha}{GMW87}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 19th Annual {ACM} Symposium on Theory of Computing, 1987, New York, New York, {USA}}
+      \field{title}{How to Play any Mental Game or {A} Completeness Theorem for Protocols with Honest Majority}
+      \field{year}{1987}
+      \field{pages}{218\bibrangedash 229}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/28395.28420
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/28395.28420
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/28395.28420
+      \endverb
+    \endentry
+    \entry{apsma}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=8bed041525df274b57efa85a48ed9783}{%
+           family={Golle},
+           familyi={G\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f151c90852d88bdab084eb1c15d5a932}{%
+           family={Di\bibnamedelima Crescenzo},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+        {{hash=7450390f818370cd0a16e130e9a6243f}{%
+           family={Rubin},
+           familyi={R\bibinitperiod},
+           given={Avi},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{8bed041525df274b57efa85a48ed9783}
+      \strng{fullhash}{8bed041525df274b57efa85a48ed9783}
+      \strng{bibnamehash}{8bed041525df274b57efa85a48ed9783}
+      \strng{authorbibnamehash}{8bed041525df274b57efa85a48ed9783}
+      \strng{authornamehash}{8bed041525df274b57efa85a48ed9783}
+      \strng{authorfullhash}{8bed041525df274b57efa85a48ed9783}
+      \strng{editorbibnamehash}{39cd398d5f46e6a61b3b536190617f04}
+      \strng{editornamehash}{118769fe74b078e292e4b6874f57ce72}
+      \strng{editorfullhash}{39cd398d5f46e6a61b3b536190617f04}
+      \field{labelalpha}{Gol06}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Existing stable matching algorithms reveal the preferences of all participants, as well as the history of matches made and broken in the course of computing a stable match. This information leakage not only violates the privacy of participants, but also leaves matching algorithms vulnerable to manipulation[8,10,25].}
+      \field{booktitle}{Financial Cryptography and Data Security}
+      \field{isbn}{978-3-540-46256-9}
+      \field{title}{A Private Stable Matching Algorithm}
+      \field{year}{2006}
+      \field{pages}{65\bibrangedash 80}
+      \range{pages}{16}
+    \endentry
+    \entry{foc}{book}{}
+      \name{author}{1}{}{%
+        {{hash=66aba379c7d3adb8af5b662a65c4c140}{%
+           family={Goldreich},
+           familyi={G\bibinitperiod},
+           given={Oded},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge university press}%
+      }
+      \strng{namehash}{66aba379c7d3adb8af5b662a65c4c140}
+      \strng{fullhash}{66aba379c7d3adb8af5b662a65c4c140}
+      \strng{bibnamehash}{66aba379c7d3adb8af5b662a65c4c140}
+      \strng{authorbibnamehash}{66aba379c7d3adb8af5b662a65c4c140}
+      \strng{authornamehash}{66aba379c7d3adb8af5b662a65c4c140}
+      \strng{authorfullhash}{66aba379c7d3adb8af5b662a65c4c140}
+      \field{labelalpha}{Gol09}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{7}
+      \field{title}{Foundations of cryptography: volume 2, basic applications}
+      \field{year}{2009}
+    \endentry
+    \entry{sok}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=3c3df3eba5920a6c903d66564b1e4925}{%
+           family={Hastings},
+           familyi={H\bibinitperiod},
+           given={Marcella},
+           giveni={M\bibinitperiod}}}%
+        {{hash=af55b5f3a1c300157c920f47d92667f4}{%
+           family={Hemenway},
+           familyi={H\bibinitperiod},
+           given={Brett},
+           giveni={B\bibinitperiod}}}%
+        {{hash=093e6e4dbc91e4e218025771d7916c2c}{%
+           family={Noble},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=86f46b6c1c6a571f63e61bfc35519f72}{%
+           family={Zdancewic},
+           familyi={Z\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a49072fa7edf432d5222c6d450aea132}
+      \strng{fullhash}{528e6d12dbf9c80ae9ab5da810373b92}
+      \strng{bibnamehash}{a49072fa7edf432d5222c6d450aea132}
+      \strng{authorbibnamehash}{a49072fa7edf432d5222c6d450aea132}
+      \strng{authornamehash}{a49072fa7edf432d5222c6d450aea132}
+      \strng{authorfullhash}{528e6d12dbf9c80ae9ab5da810373b92}
+      \field{labelalpha}{Has+19}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE Symposium on Security and Privacy (SP)}
+      \field{title}{SoK: General Purpose Compilers for Secure Multi-Party Computation}
+      \field{year}{2019}
+      \field{pages}{1220\bibrangedash 1237}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1109/SP.2019.00028
+      \endverb
+    \endentry
+    \entry{htsi}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=e20af851262c583d34b7a667a7039cb4}{%
+           family={Lindell},
+           familyi={L\bibinitperiod},
+           given={Yehuda},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{e20af851262c583d34b7a667a7039cb4}
+      \strng{fullhash}{e20af851262c583d34b7a667a7039cb4}
+      \strng{bibnamehash}{e20af851262c583d34b7a667a7039cb4}
+      \strng{authorbibnamehash}{e20af851262c583d34b7a667a7039cb4}
+      \strng{authornamehash}{e20af851262c583d34b7a667a7039cb4}
+      \strng{authorfullhash}{e20af851262c583d34b7a667a7039cb4}
+      \field{labelalpha}{Lin17}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{One of the most fundamental notions of cryptography is that of simulation. It stands behind the concepts of semantic security, zero knowledge, and security for multiparty computation. However, writing a simulator and proving security via the use of simulation is a nontrivial task, and one that many newcomers to the field often find difficult. In this tutorial, we provide a guide to how to write simulators and prove security via the simulation paradigm. Although we have tried to make this tutorial as stand-alone as possible, we assume some familiarity with the notions of secure encryption, zero-knowledge, and secure computation.}
+      \field{booktitle}{Tutorials on the Foundations of Cryptography: Dedicated to Oded Goldreich}
+      \field{isbn}{978-3-319-57048-8}
+      \field{title}{How to Simulate It -- A Tutorial on the Simulation Proof Technique}
+      \field{year}{2017}
+      \field{pages}{277\bibrangedash 346}
+      \range{pages}{70}
+      \verb{doi}
+      \verb 10.1007/978-3-319-57048-8_6
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-57048-8_6
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-57048-8_6
+      \endverb
+    \endentry
+    \entry{nrmp}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=dcc41435f3f456ea017efa87fc66cdba}{%
+           family={Lütkebohle},
+           familyi={L\bibinitperiod},
+           given={Ingo},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{dcc41435f3f456ea017efa87fc66cdba}
+      \strng{fullhash}{dcc41435f3f456ea017efa87fc66cdba}
+      \strng{bibnamehash}{dcc41435f3f456ea017efa87fc66cdba}
+      \strng{authorbibnamehash}{dcc41435f3f456ea017efa87fc66cdba}
+      \strng{authornamehash}{dcc41435f3f456ea017efa87fc66cdba}
+      \strng{authorfullhash}{dcc41435f3f456ea017efa87fc66cdba}
+      \field{labelalpha}{Lüt16}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.nrmp.org/wp-content/uploads/2016/04/ Main-Match-Results-and-Data-2016.pdf}}
+      \field{note}{[Online; accessed 04-August-2021]}
+      \field{title}{{National Resident Matching Program. 2016 Main Residency Match.}}
+      \field{year}{2016}
+    \endentry
+    \entry{sm}{article}{}
+      \name{author}{1}{}{%
+        {{hash=da2fd88461914cc8ab123bd3a8312f8c}{%
+           family={Tullis},
+           familyi={T\bibinitperiod},
+           given={Tracy},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{da2fd88461914cc8ab123bd3a8312f8c}
+      \strng{fullhash}{da2fd88461914cc8ab123bd3a8312f8c}
+      \strng{bibnamehash}{da2fd88461914cc8ab123bd3a8312f8c}
+      \strng{authorbibnamehash}{da2fd88461914cc8ab123bd3a8312f8c}
+      \strng{authornamehash}{da2fd88461914cc8ab123bd3a8312f8c}
+      \strng{authorfullhash}{da2fd88461914cc8ab123bd3a8312f8c}
+      \field{labelalpha}{Tul14}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The New York Times}
+      \field{month}{12}
+      \field{title}{How Game Theory Helped Improve New York City’s High School Application Process}
+      \field{volume}{2}
+      \field{year}{2014}
+      \field{pages}{67\bibrangedash 79}
+      \range{pages}{13}
+    \endentry
+    \entry{htgaes}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=bdf7dbd523c5db366c4ffbc0ea3dc192}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Andrew\bibnamedelima Chi{-}Chih},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IEEE} Computer Society}%
+      }
+      \strng{namehash}{bdf7dbd523c5db366c4ffbc0ea3dc192}
+      \strng{fullhash}{bdf7dbd523c5db366c4ffbc0ea3dc192}
+      \strng{bibnamehash}{bdf7dbd523c5db366c4ffbc0ea3dc192}
+      \strng{authorbibnamehash}{bdf7dbd523c5db366c4ffbc0ea3dc192}
+      \strng{authornamehash}{bdf7dbd523c5db366c4ffbc0ea3dc192}
+      \strng{authorfullhash}{bdf7dbd523c5db366c4ffbc0ea3dc192}
+      \field{labelalpha}{Yao86}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{27th Annual Symposium on Foundations of Computer Science, Toronto, Canada, 27-29 October 1986}
+      \field{title}{How to Generate and Exchange Secrets (Extended Abstract)}
+      \field{year}{1986}
+      \field{pages}{162\bibrangedash 167}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/SFCS.1986.25
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/SFCS.1986.25
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/SFCS.1986.25
+      \endverb
+    \endentry
+    \entry{rsqo}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=6e8a906a7fed49b7c05def835469f91a}{%
+           family={Zahur},
+           familyi={Z\bibinitperiod},
+           given={Samee},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bd7d15d79ca36b953d99a1a0aaccb94a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiao},
+           giveni={X\bibinitperiod}}}%
+        {{hash=8071a9851fd10b5f3b20c6a2579664d0}{%
+           family={Raykova},
+           familyi={R\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a8130afdca218ee3c2e5b572db03a8cb}{%
+           family={Gascón},
+           familyi={G\bibinitperiod},
+           given={Adrià},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a443b7f21d4906901160cc05b8bea094}{%
+           family={Doerner},
+           familyi={D\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fdf60d29316eacfbd0fdc22e786afd78}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=85053e14c4a72772970b91a572b9b9c1}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{995a86dbee27347ee7df7385bac9f547}
+      \strng{fullhash}{503dcccea4265365405f1a977c5b361a}
+      \strng{bibnamehash}{995a86dbee27347ee7df7385bac9f547}
+      \strng{authorbibnamehash}{995a86dbee27347ee7df7385bac9f547}
+      \strng{authornamehash}{995a86dbee27347ee7df7385bac9f547}
+      \strng{authorfullhash}{503dcccea4265365405f1a977c5b361a}
+      \field{labelalpha}{Zah+16}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 IEEE Symposium on Security and Privacy (SP)}
+      \field{title}{Revisiting Square-Root ORAM: Efficient Random Access in Multi-party Computation}
+      \field{year}{2016}
+      \field{pages}{218\bibrangedash 234}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1109/SP.2016.21
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
 
-\bibitem[DEas16]{smas}
-Jack Doerner, David Evans, and abhi shelat.
-\newblock Secure stable matching at scale.
-\newblock In {\em Proceedings of the 2016 ACM SIGSAC Conference on Computer and
-  Communications Security}, CCS '16, page 1602–1613, New York, NY, USA, 2016.
-  Association for Computing Machinery.
-
-\bibitem[FGM06]{iefpsm}
-Matthew Franklin, Mark Gondree, and Payman Mohassel.
-\newblock Improved efficiency for private stable matching.
-\newblock In Masayuki Abe, editor, {\em Topics in Cryptology -- CT-RSA 2007},
-  pages 163--177, Berlin, Heidelberg, 2006. Springer Berlin Heidelberg.
-
-\bibitem[GMW87]{htpamg}
-Oded Goldreich, Silvio Micali, and Avi Wigderson.
-\newblock How to play any mental game or {A} completeness theorem for protocols
-  with honest majority.
-\newblock In Alfred~V. Aho, editor, {\em Proceedings of the 19th Annual {ACM}
-  Symposium on Theory of Computing, 1987, New York, New York, {USA}}, pages
-  218--229. {ACM}, 1987.
-
-\bibitem[Gol06]{apsma}
-Philippe Golle.
-\newblock A private stable matching algorithm.
-\newblock In Giovanni Di~Crescenzo and Avi Rubin, editors, {\em Financial
-  Cryptography and Data Security}, pages 65--80, Berlin, Heidelberg, 2006.
-  Springer Berlin Heidelberg.
-
-\bibitem[Gol09]{foc}
-Oded Goldreich.
-\newblock {\em Foundations of cryptography: volume 2, basic applications}.
-\newblock Cambridge university press, 2009.
-
-\bibitem[HHNZ19]{sok}
-Marcella Hastings, Brett Hemenway, Daniel Noble, and Steve Zdancewic.
-\newblock Sok: General purpose compilers for secure multi-party computation.
-\newblock In {\em 2019 IEEE Symposium on Security and Privacy (SP)}, pages
-  1220--1237, 2019.
-
-\bibitem[Lü16]{nrmp}
-Ingo Lütkebohle.
-\newblock {National Resident Matching Program. 2016 Main Residency Match.}
-\newblock \url{http://www.nrmp.org/wp-content/uploads/2016/04/
-  Main-Match-Results-and-Data-2016.pdf}, 2016.
-\newblock [Online; accessed 04-August-2021].
-
-\bibitem[Lin17]{htsi}
-Yehuda Lindell.
-\newblock {\em How to Simulate It -- A Tutorial on the Simulation Proof
-  Technique}, pages 277--346.
-\newblock Springer International Publishing, Cham, 2017.
-
-\bibitem[Tul14]{sm}
-Tracy Tullis.
-\newblock How game theory helped improve new york city’s high school
-  application process.
-\newblock {\em The New York Times}, 2:67--79, December 2014.
-
-\bibitem[Yao86]{htgaes}
-Andrew~Chi{-}Chih Yao.
-\newblock How to generate and exchange secrets (extended abstract).
-\newblock In {\em 27th Annual Symposium on Foundations of Computer Science,
-  Toronto, Canada, 27-29 October 1986}, pages 162--167. {IEEE} Computer
-  Society, 1986.
-
-\bibitem[ZWR{\etalchar{+}}16]{rsqo}
-Samee Zahur, Xiao Wang, Mariana Raykova, Adrià Gascón, Jack Doerner, David
-  Evans, and Jonathan Katz.
-\newblock Revisiting square-root oram: Efficient random access in multi-party
-  computation.
-\newblock In {\em 2016 IEEE Symposium on Security and Privacy (SP)}, pages
-  218--234, 2016.
-
-\end{thebibliography}

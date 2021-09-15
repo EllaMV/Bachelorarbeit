@@ -1,0 +1,18 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[1] Config.pm:314> INFO - Logfile is 'Proposal Ella Vahle.blg'
+[328] biber-MSWIN64:340> INFO - === 
+[469] Biber.pm:415> INFO - Reading 'Proposal Ella Vahle.bcf'
+[722] Biber.pm:952> INFO - Found 13 citekeys in bib section 0
+[767] Biber.pm:4340> INFO - Processing section 0
+[800] Biber.pm:4531> INFO - Looking for bibtex format file 'references.bib' for section 0
+[931] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1027] bibtex.pm:1494> INFO - Found BibTeX data source 'references.bib'
+[1254] Utils.pm:395> WARN - legacy month field 'December' in entry 'sm' is not an integer - this will probably not sort properly.
+[1369] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\ellav\AppData\Local\Temp\biber_tmp_VkVU\33e59b5ca9ec342068223d604c3f8d55_12032.utf8, line 49, warning: 1 characters of junk seen at toplevel
+[1478] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1479] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1479] Biber.pm:4168> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'en-US'
+[1479] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1539] bbl.pm:654> INFO - Writing 'Proposal Ella Vahle.bbl' with encoding 'UTF-8'
+[1566] bbl.pm:757> INFO - Output to Proposal Ella Vahle.bbl
+[1567] Biber.pm:128> INFO - WARNINGS: 2

@@ -1,0 +1,79 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{smas}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=a443b7f21d4906901160cc05b8bea094}{%
+           family={Doerner},
+           familyi={D\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fdf60d29316eacfbd0fdc22e786afd78}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b49eb52d8ef6cc8364d3178753f8d378}{%
+           family={shelat},
+           familyi={s\bibinitperiod},
+           prefix={abhi},
+           prefixi={a\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{f93de0fb05af3f49dff9504035b92bba}
+      \strng{fullhash}{f93de0fb05af3f49dff9504035b92bba}
+      \strng{bibnamehash}{f93de0fb05af3f49dff9504035b92bba}
+      \strng{authorbibnamehash}{f93de0fb05af3f49dff9504035b92bba}
+      \strng{authornamehash}{f93de0fb05af3f49dff9504035b92bba}
+      \strng{authorfullhash}{f93de0fb05af3f49dff9504035b92bba}
+      \field{labelalpha}{DEs16}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{When a group of individuals and organizations wish to compute a stable matching---for example, when medical students are matched to medical residency programs---they often outsource the computation to a trusted arbiter in order to preserve the privacy of participants' preferences. Secure multi-party computation offers the possibility of private matching processes that do not rely on any common trusted third party. However, stable matching algorithms have previously been considered infeasible for execution in a secure multi-party context on non-trivial inputs because they are computationally intensive and involve complex data-dependent memory access patterns.We adapt the classic Gale-Shapley algorithm for use in such a context, and show experimentally that our modifications yield a lower asymptotic complexity and more than an order of magnitude in practical cost improvement over previous techniques. Our main improvements stem from designing new oblivious data structures that exploit the properties of the matching algorithms. We apply a similar strategy to scale the Roth-Peranson instability chaining algorithm, currently in use by the National Resident Matching Program. The resulting protocol is efficient enough to be useful at the scale required for matching medical residents nationwide, taking just over 18 hours to complete an execution simulating the 2016 national resident match with more than 35,000 participants and 30,000 residency slots.}
+      \field{booktitle}{Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security}
+      \field{isbn}{9781450341394}
+      \field{series}{CCS '16}
+      \field{title}{Secure Stable Matching at Scale}
+      \field{year}{2016}
+      \field{pages}{1602\bibrangedash 1613}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/2976749.2978373
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2976749.2978373
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2976749.2978373
+      \endverb
+      \keyw{gale-shapley,stable matching,ram secure computation,multi-party computation,secure computation,roth-peranson}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

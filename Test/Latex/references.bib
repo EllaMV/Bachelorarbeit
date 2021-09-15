@@ -1,0 +1,208 @@
+% Bibliography File
+% Insert your References here!
+@inproceedings{smas,
+author = {Jack Doerner and David Evans and abhi shelat},
+title = {Secure Stable Matching at Scale},
+year = {2016},
+isbn = {9781450341394},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2976749.2978373},
+doi = {10.1145/2976749.2978373},
+abstract = {When a group of individuals and organizations wish to compute a stable matching---for
+example, when medical students are matched to medical residency programs---they often
+outsource the computation to a trusted arbiter in order to preserve the privacy of
+participants' preferences. Secure multi-party computation offers the possibility of
+private matching processes that do not rely on any common trusted third party. However,
+stable matching algorithms have previously been considered infeasible for execution
+in a secure multi-party context on non-trivial inputs because they are computationally
+intensive and involve complex data-dependent memory access patterns.We adapt the classic
+Gale-Shapley algorithm for use in such a context, and show experimentally that our
+modifications yield a lower asymptotic complexity and more than an order of magnitude
+in practical cost improvement over previous techniques. Our main improvements stem
+from designing new oblivious data structures that exploit the properties of the matching
+algorithms. We apply a similar strategy to scale the Roth-Peranson instability chaining
+algorithm, currently in use by the National Resident Matching Program. The resulting
+protocol is efficient enough to be useful at the scale required for matching medical
+residents nationwide, taking just over 18 hours to complete an execution simulating
+the 2016 national resident match with more than 35,000 participants and 30,000 residency
+slots.},
+booktitle = {Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security},
+pages = {1602–1613},
+numpages = {12},
+keywords = {gale-shapley, stable matching, ram secure computation, multi-party computation, secure computation, roth-peranson},
+location = {Vienna, Austria},
+series = {CCS '16}
+}
+
+@INPROCEEDINGS{sok,
+  author={Hastings, Marcella and Hemenway, Brett and Noble, Daniel and Zdancewic, Steve},
+  booktitle={2019 IEEE Symposium on Security and Privacy (SP)}, 
+  title={SoK: General Purpose Compilers for Secure Multi-Party Computation}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={1220-1237},
+  doi={10.1109/SP.2019.00028}}
+}
+
+@Inbook{htsi,
+author="Lindell, Yehuda",
+title="How to Simulate It -- A Tutorial on the Simulation Proof Technique",
+bookTitle="Tutorials on the Foundations of Cryptography: Dedicated to Oded Goldreich",
+year="2017",
+publisher="Springer International Publishing",
+address="Cham",
+pages="277--346",
+abstract="One of the most fundamental notions of cryptography is that of simulation. It stands behind the concepts of semantic security, zero knowledge, and security for multiparty computation. However, writing a simulator and proving security via the use of simulation is a nontrivial task, and one that many newcomers to the field often find difficult. In this tutorial, we provide a guide to how to write simulators and prove security via the simulation paradigm. Although we have tried to make this tutorial as stand-alone as possible, we assume some familiarity with the notions of secure encryption, zero-knowledge, and secure computation.",
+isbn="978-3-319-57048-8",
+doi="10.1007/978-3-319-57048-8_6",
+url="https://doi.org/10.1007/978-3-319-57048-8_6"
+}
+
+@inproceedings{dogafscao,
+author = {Blanton, Marina and Steele, Aaron and Alisagari, Mehrdad},
+title = {Data-Oblivious Graph Algorithms for Secure Computation and Outsourcing},
+year = {2013},
+isbn = {9781450317672},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2484313.2484341},
+doi = {10.1145/2484313.2484341},
+abstract = {This work treats the problem of designing data-oblivious algorithms for classical
+and widely used graph problems. A data-oblivious algorithm is defined as having the
+same sequence of operations regardless of the input data and data-independent memory
+accesses. Such algorithms are suitable for secure processing in outsourced and similar
+environments, which serves as the main motivation for this work. We provide data-oblivious
+algorithms for breadth-first search, single-source single-destination shortest path,
+minimum spanning tree, and maximum flow, the asymptotic complexities of which are
+optimal, or close to optimal, for dense graphs.},
+booktitle = {Proceedings of the 8th ACM SIGSAC Symposium on Information, Computer and Communications Security},
+pages = {207–218},
+numpages = {12},
+keywords = {graph algorithms, oblivious execution, secure computation},
+location = {Hangzhou, China},
+series = {ASIA CCS '13}
+}
+
+@inproceedings{mpusp,
+  author    = {David Chaum and
+               Claude Cr{\'{e}}peau and
+               Ivan Damg{\aa}rd},
+  editor    = {Janos Simon},
+  title     = {Multiparty Unconditionally Secure Protocols (Extended Abstract)},
+  booktitle = {Proceedings of the 20th Annual {ACM} Symposium on Theory of Computing,
+               May 2-4, 1988, Chicago, Illinois, {USA}},
+  pages     = {11--19},
+  publisher = {{ACM}},
+  year      = {1988},
+  url       = {https://doi.org/10.1145/62212.62214},
+  doi       = {10.1145/62212.62214},
+  timestamp = {Tue, 06 Nov 2018 11:07:05 +0100},
+  biburl    = {https://dblp.org/rec/conf/stoc/ChaumCD88.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{htpamg,
+  author    = {Oded Goldreich and
+               Silvio Micali and
+               Avi Wigderson},
+  editor    = {Alfred V. Aho},
+  title     = {How to Play any Mental Game or {A} Completeness Theorem for Protocols
+               with Honest Majority},
+  booktitle = {Proceedings of the 19th Annual {ACM} Symposium on Theory of Computing,
+               1987, New York, New York, {USA}},
+  pages     = {218--229},
+  publisher = {{ACM}},
+  year      = {1987},
+  url       = {https://doi.org/10.1145/28395.28420},
+  doi       = {10.1145/28395.28420},
+  timestamp = {Mon, 26 Nov 2018 15:05:57 +0100},
+  biburl    = {https://dblp.org/rec/conf/stoc/GoldreichMW87.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{htgaes,
+  author    = {Andrew Chi{-}Chih Yao},
+  title     = {How to Generate and Exchange Secrets (Extended Abstract)},
+  booktitle = {27th Annual Symposium on Foundations of Computer Science, Toronto,
+               Canada, 27-29 October 1986},
+  pages     = {162--167},
+  publisher = {{IEEE} Computer Society},
+  year      = {1986},
+  url       = {https://doi.org/10.1109/SFCS.1986.25},
+  doi       = {10.1109/SFCS.1986.25},
+  timestamp = {Wed, 16 Oct 2019 14:14:54 +0200},
+  biburl    = {https://dblp.org/rec/conf/focs/Yao86.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@misc{nrmp,
+  author = {Ingo Lütkebohle},
+  title = {{National Resident Matching Program. 2016 Main Residency
+Match.}},
+  howpublished = "\url{http://www.nrmp.org/wp-content/uploads/2016/04/
+Main-Match-Results-and-Data-2016.pdf}",
+  year = {2016}, 
+  note = "[Online; accessed 04-August-2021]"
+}
+
+@article{sm,
+      AUTHOR          = {Tracy Tullis},
+      TITLE           = {How Game Theory Helped Improve New York City’s High School Application Process},
+      JOURNAL         = {The New York Times},
+      VOLUME          = {2},
+      NUMBER          = {},
+      DAY = {5},
+      MONTH = {December},
+      YEAR            = {2014},
+      PAGES           = {67--79}
+}
+
+@INPROCEEDINGS{rsqo,
+  author={Zahur, Samee and Wang, Xiao and Raykova, Mariana and Gascón, Adrià and Doerner, Jack and Evans, David and Katz, Jonathan},
+  booktitle={2016 IEEE Symposium on Security and Privacy (SP)}, 
+  title={Revisiting Square-Root ORAM: Efficient Random Access in Multi-party Computation}, 
+  year={2016},
+  volume={},
+  number={},
+  pages={218-234},
+  doi={10.1109/SP.2016.21}
+}
+
+@InProceedings{apsma,
+author="Golle, Philippe",
+editor="Di Crescenzo, Giovanni
+and Rubin, Avi",
+title="A Private Stable Matching Algorithm",
+booktitle="Financial Cryptography and Data Security",
+year="2006",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="65--80",
+abstract="Existing stable matching algorithms reveal the preferences of all participants, as well as the history of matches made and broken in the course of computing a stable match. This information leakage not only violates the privacy of participants, but also leaves matching algorithms vulnerable to manipulation[8,10,25].",
+isbn="978-3-540-46256-9"
+}
+
+@InProceedings{iefpsm,
+author="Franklin, Matthew
+and Gondree, Mark
+and Mohassel, Payman",
+editor="Abe, Masayuki",
+title="Improved Efficiency for Private Stable Matching",
+booktitle="Topics in Cryptology -- CT-RSA 2007",
+year="2006",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="163--177",
+abstract="At Financial Crypto 2006, Golle presented a novel framework for the privacy preserving computation of a stable matching (stable marriage). We show that the communication complexity of Golle's main protocol is substantially greater than what was claimed in that paper, in part due to surprising pathological behavior of Golle's variant of the Gale-Shapley stable matching algorithm. We also develop new protocols in Golle's basic framework with greatly reduced communication complexity.",
+isbn="978-3-540-69328-4"
+}
+
+@book{foc,
+  title={Foundations of cryptography: volume 2, basic applications},
+  author={Goldreich, Oded},
+  year={2009},
+  publisher={Cambridge university press},
+  chapter=7
+}
